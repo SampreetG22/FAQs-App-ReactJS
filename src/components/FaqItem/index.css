@@ -1,0 +1,36 @@
+.faqItemElement {
+  padding: 10px;
+  list-style-type: none;
+  border: 1px solid #9aa5b1;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  width: 100%;
+}
+.question_and_icon_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+}
+.questionCSS {
+  font-size: 18px;
+  font-weight: 500;
+  color: #52606d;
+}
+.iconBtn {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.iconCSS {
+  width: 15px;
+  height: 15px;
+}
+.lineCSS {
+  margin: 0px;
+}
+.answerCSS {
+  color: #9aa5b1;
+  font-size: 12px;
+}
